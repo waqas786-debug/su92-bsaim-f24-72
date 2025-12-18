@@ -1,0 +1,11 @@
+Country,Year,Month,Day of Week,Time of Day,Urban/Rural,Road Type,Weather Conditions,Speed Limit,Vehicle Condition,Driver Alcohol Level,Accident Severity
+USA,2022,October,Tuesday,Evening,Rural,Street,Windy,35,Poor,0.05,Moderate
+UK,2021,December,Saturday,Night,Urban,Highway,Foggy,70,Good,0.22,Severe
+Canada,2023,May,Monday,Morning,Urban,Main Road,Clear,50,Moderate,0.00,Minor
+USA,2022,July,Sunday,Afternoon,Rural,Street,Rainy,40,Poor,0.15,Severe
+Germany,2020,January,Friday,Night,Urban,Main Road,Snowy,60,Moderate,0.08,Moderate
+UK,2023,August,Wednesday,Evening,Rural,Highway,Clear,80,Good,0.02,Minor
+USA,2021,March,Thursday,Morning,Urban,Street,Rainy,30,Poor,0.12,Severe
+Canada,2022,June,Saturday,Afternoon,Urban,Main Road,Windy,55,Good,0.00,Minor
+France,2023,September,Monday,Night,Rural,Highway,Foggy,100,Moderate,0.05,Moderate
+USA,2020,February,Tuesday,Evening,Urban,Street,Snowy,35,Poor,0.25,Severe
